@@ -4,8 +4,10 @@
 **Folders:**
  
  **/pages** - site pages in markdown format
- **/files/media** - media files
- **/files/dt-overlays** - DTS overlay files
+ 
+ **/Uploads** - media files
+ 
+ **/Uploads/dt-overlays** - DTS overlay files
  
 screenshot main page
 [![devdotnet.org](scr-devdotnetorg.png "devdotnet.org")](scr-devdotnetorg.png "devdotnet.org")
